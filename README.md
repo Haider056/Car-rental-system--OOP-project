@@ -1,9 +1,8 @@
     <h1 align="center">CAR RENTAL SYSTEM</h1>
-    <img src="https://github.com/Haider056/Car-rental-system--OOP-project/blob/main/Capture.PNG" width="650"  alt="">
+    <img src="https://github.com/Haider056/Car-rental-system--OOP-project/blob/main/Capture.PNG" width="650" >
     <p>This project is based on concepts of Object oriented programming. The project is a basic prototype of a car rental system 
     and contains different options to buy different cars accrording to user's choic and are classified with model, make and variant 
-    The purpose of the project is to implement concepts of programming such as Classes, Objects, Ecapuslation
-,Inheritance, Polymorphism and Abstraction.</p>
+    The purpose of the project is to implement concepts of programming such as Classes, Objects, Ecapuslation,Inheritance, Polymorphism and Abstraction.</p>
         <h3>Main highlights</h3>
         <ul><li>Login/ Signup</li>
             <li>Password protected</li>
